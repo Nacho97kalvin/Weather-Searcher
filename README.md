@@ -12,5 +12,5 @@ Dependencies used:
 
 See the application working on the followed link:
 
-
+https://weather-searcher.vercel.app/
 
